@@ -8,7 +8,7 @@ mydb = mysql.connector.connect(
     host="localhost",
     user="root",
     password="",
-    database="scraper-auto-deals"
+    database="scraper-olx"
 )
 mycursor = mydb.cursor()
 
