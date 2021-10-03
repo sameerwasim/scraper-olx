@@ -1,11 +1,9 @@
-# scraper-olx
-
 <h1>Scraper Olx</h1>
 
 
 <h3>How does it work?</h3>
 
-<spanThe olx scraper consist of three stages:</spam>
+<span>The olx scraper consist of three stages:</spam>
 <ol>
 <li>Fetch inventory urls</li>
 <li>Fetch inventory data from those url</li>
